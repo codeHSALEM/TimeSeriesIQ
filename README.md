@@ -48,11 +48,6 @@ pip install tensorflow keras pandas numpy matplotlib seaborn
 cd TimeSeriesIQ
 ```
 
-4. Exécutez le projet à l'aide de la commande suivante :
-
-```python main.py
-```
-
 **Contributions**
 
 Nous encourageons les contributions pour améliorer le projet TimeSeriesIQ. N'hésitez pas à forker le référentiel, à apporter des modifications et à soumettre des demandes de tirage avec vos améliorations proposées.
